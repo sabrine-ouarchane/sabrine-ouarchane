@@ -3,7 +3,7 @@
 # IA et cybersécurité : construire des systèmes intelligents, et les sécuriser
 
 <a href="https://sabrine-ouarchane.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=620&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+IA+%26+Cybers%C3%A9curit%C3%A9+%E2%80%93+ENSA+B%C3%A9ni+Mellal;S%C3%A9curit%C3%A9+des+syst%C3%A8mes+IA;Vision+par+ordinateur+%7C+Blockchain+%7C+Forensique;En+recherche+de+stage+PFE+%E2%80%93+janvier+2027" alt="Présentation animée" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=%C3%89l%C3%A8ve+ing%C3%A9nieure+IA+%26+Cybers%C3%A9curit%C3%A9;ENSA+B%C3%A9ni+Mellal;S%C3%A9curit%C3%A9+des+syst%C3%A8mes+IA;Vision+par+ordinateur+%7C+Blockchain+%7C+Forensique;En+recherche+de+stage+PFE+%E2%80%93+janvier+2027" alt="Présentation animée" />
 </a>
 
 <p>
@@ -90,8 +90,7 @@ Simulation d'attaque (Cyber Kill Chain), durcissement, journalisation auditd, an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabrine-ouarchane&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrine-ouarchane&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés"/>
+<img src="https://streak-stats.demolab.com?user=sabrine-ouarchane&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions"/>
 
 </div>
 
